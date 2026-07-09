@@ -1,24 +1,6 @@
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h1>👋 Hello World, I'm barsa-dot</h1>
-      <p>I am a developer who loves breaking down complex software problems—whether that means designing a smooth user experience in the browser or debugging dynamic memory allocation at the systems layer.</p>
-      <p>I focus heavily on modular backend structures, full-stack state validation, and writing clean, scalable markdown documentation.</p>
-      <h3>🌱 What I'm Up To:</h3>
-      <ul>
-        <li>Optimizing asynchronous routers in FastAPI</li>
-        <li>Tackling low-level concepts and structural memory patterns in C</li>
-        <li>Collaborating on upcoming hackathon software architectures</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3>📊 My Git Activity</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=barsa-dot&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Stats" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsa-dot&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+| 👋 Hello World, I'm barsa-dot | 📊 My Git Activity |
+| :--- | :--- |
+| I am a developer who loves breaking down complex software problems—whether that means designing a smooth user experience in the browser or debugging dynamic memory allocation at the systems layer.<br><br>I focus heavily on modular backend structures, full-stack state validation, and writing clean, scalable markdown documentation.<br><br>**🌱 What I'm Up To:**<br>• Optimizing asynchronous routers in FastAPI<br>• Tackling low-level concepts and structural memory patterns in C<br>• Collaborating on upcoming hackathon software architectures | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barsa-dot&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barsa-dot&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
