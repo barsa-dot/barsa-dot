@@ -1,55 +1,28 @@
-# ⚡ CONSOLE: barsa-dot
----
-
-## 🛠️ The Core Engine
-
-### ⚙️ Technologies & Tooling
-`React` • `FastAPI` • `Appwrite` • `Vite` • `C Programming` • `Python Data Science` • `Git Ecosystem`
-
----
-
-## 📂 Project Directories
-*Click on a directory to expand its logs and technical blueprints:*
-
-<details>
-<summary>📂 <b>[hackathon-jewelry-shop]</b> — Full-Stack Platform</summary>
-<br>
-
-* **The Mission:** Engineered an end-to-end e-commerce experience under intense timeline constraints for a recent hackathon presentation.
-* **Architecture:** Formed a highly responsive frontend user interface via **React** and **Vite**, binding it directly to managed cloud collections using **Appwrite**.
-* **Key Focus:** State validation, lightning-fast component rendering, and fluid user checkout routing.
-</details>
-
-<details>
-<summary>📂 <b>[vedic-ai]</b> — Conversational Insights Backend</summary>
-<br>
-
-* **The Mission:** Building a structured, highly performant chat application backend designed to deliver wisdom-focused insights.
-* **Architecture:** Structured completely using a asynchronous **FastAPI** pipeline in Python.
-* **Key Focus:** Optimizing custom data routers, handling structured JSON payloads cleanly, and maintaining low-latency endpoint responses.
-</details>
-
-<details>
-<summary>📂 <b>[reva-campus-tokens]</b> — Open-Source Distribution</summary>
-<br>
-
-* **The Mission:** Designing explicit, modular repository workflows intended to map and track digital token allocations for local campus resources.
-* **Architecture:** Pure structural system design, keeping repository modules cleanly decoupled for public open-source contributions.
-</details>
-
----
-
-## 🧠 Low-Level Experiments
-When I'm not spinning up web routes, I'm peeling back the layers of software abstractions to see exactly how computer systems manage work:
-
-* **Memory Allocation:** Digging deep into raw **C programming**, debugging pointer arithmetic, and mastering dynamic allocation patterns (`malloc`, `free`).
-* **Data Scoping:** Breaking down information flows using Python libraries like **Pandas**, **Seaborn**, and **Matplotlib** to build clean visual maps from raw data points.
-
----
-
-## 📈 Activity Stream
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=44&duration=3500&pause=1000&color=FF5E84&center=true&vCenter=true&width=600&height=70&lines=Hello!+I'm+Barsa;👋+Welcome+to+my+space" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barsa-dot&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsa-dot&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=800&color=8A70FF&center=true&vCenter=true&width=600&height=40&lines=I+build+full-stack+applications;I+tinker+with+low-level+C+mechanics;I+love+open+source+%3A)" alt="Typing SVG" />
 </p>
+
+---
+
+### 💻 Current Focus
+* **Building:** End-to-end applications using **React**, **Vite**, and **FastAPI** to link seamless frontends with robust backend routes.
+* **Under the Hood:** Exploring the intricacies of **C programming**, debugging pointer arithmetic, and mastering dynamic memory management (`malloc`, `free`).
+* **The Hackathon Sandbox:** Designing end-to-end architectures under pressure, like a centralized full-stack Jewelry E-Commerce ecosystem powered by Appwrite.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+* **Web Architecture:** React | FastAPI | Appwrite | Vite | HTML5 & CSS3
+* **Systems & Data:** C Programming (Memory Allocation) | Data Structures | Python (Pandas, Seaborn)
+* **Workflow:** Git & GitHub | VS Code environment
+
+---
+
+### 📂 Highlighted Blueprints
+* **Vedic AI:** Engineering structured backend endpoints to deliver dynamic, low-latency conversational insights.
+* **Jewelry E-Commerce:** A production-ready hackathon platform mapping fluid checkout experiences to managed cloud backends.
+* **Reva Campus Tokens:** Designing explicit repository workflows for token tracking and local resource distribution.
