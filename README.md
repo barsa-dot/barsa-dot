@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=44&duration=3500&pause=1000&color=FF5E84&center=true&vCenter=true&width=600&height=70&lines=Hello!+I'm+Barsa;👋+Welcome+to+my+space" alt="Typing SVG" />
-</p>
+![Hello Banner](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=42&duration=2000&pause=5000&color=FF5E84&width=500&height=60&lines=Hello!+This+is+Barsa...)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=800&color=8A70FF&center=true&vCenter=true&width=600&height=40&lines=I+build+full-stack+applications;I+tinker+with+low-level+C+mechanics;I+love+open+source+%3A)" alt="Typing SVG" />
-</p>
+![Blueprint Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=8A70FF&width=550&height=40&lines=I+build+full-stack+applications...;I+tinker+with+low-level+C+mechanics...;I+love+open+source+development+%3A))
 
 ---
 
