@@ -11,12 +11,16 @@
         <li>Collaborating on upcoming hackathon software architectures</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+     <td width="40%" valign="top">
       <h3>📊 My Git Activity</h3>
-      <!-- Stats cards stack cleanly on the right side -->
-      <img src="https://github-readme-stats.vercel.app/api?username=barsa-dot&show_icons=true&theme=radical&hide_border=true" width="100%" />
+      <!-- Swapped out for standard Markdown image formats -->
+      
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barsa-dot&show_icons=true&theme=radical&hide_border=true)
+      
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsa-dot&layout=compact&theme=radical&hide_border=true" width="100%" />
+      
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barsa-dot&layout=compact&theme=radical&hide_border=true)
+    </td>
     </td>
   </tr>
 </table>
