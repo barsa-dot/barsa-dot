@@ -16,12 +16,11 @@ I'm **Barsarani Sahoo**, a Computer Science student at **REVA University** and a
 
 ### Open a project
 
-| Project | What's inside |
+| Project | What I’m building |
 | :--- | :--- |
-| **[Developer OS](https://github.com/barsa-dot/developer-os)** | A creative developer interface with an arcade-inspired personality. |
-| **[Arcade 2.0](https://github.com/barsa-dot/Arcade2.0)** | Python games, brought together in one arcade. |
-| **[The Museum of Barsa](https://github.com/barsa-dot/the-museum-of-barsa)** | An experiment in making a portfolio feel like a place to explore. |
-| **[Portfolio](https://github.com/barsa-dot/barsa_portfolio)** | My personal corner of the web. |
+| **AuthorDNA** | A writing analysis tool exploring writing style and language patterns. |
+| **FactCheckAI** | Machine learning experiments for assessing claims using text datasets. |
+| **TaskNest** | A task manager with subtasks, progress tracking and a playful rewards system. |
 
 ### My toolkit
 
@@ -31,4 +30,4 @@ I'm **Barsarani Sahoo**, a Computer Science student at **REVA University** and a
 
 ---
 
-<p align="center"><sub>Part developer. Part storyteller. Always a work in progress.</sub></p>
+<p align="center"><sub>Curious by default. Building with intention.</sub></p>
