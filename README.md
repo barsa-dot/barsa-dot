@@ -1,60 +1,40 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/dashboard.svg" width="100%" alt="Barsa's developer terminal: contribution calendar, public GitHub statistics and primary repository languages" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=45&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=520&lines=%24+.%2Fportfolio;%5BINFO%5D+Initializing+developer+environment...;%5BINFO%5D+Loading+repositories...;%5BINFO%5D+Checking+Git+status...;%5BINFO%5D+Compiling+portfolio...;%5BOK%5D+Environment+ready.;++;Hello%2C+I'm+Barsa.;Welcome+to+my+GitHub.;++;%E2%96%B6+Building+modern+full-stack+applications;%E2%96%B6+Exploring+C+internals+%26+memory+management;%E2%96%B6+Creating+AI-powered+developer+tools;%E2%96%B6+Contributing+to+Open+Source;%E2%96%B6+Learning+something+new+every+day;++;Status+++++++%3A+ONLINE;Focus++++++++%3A+Full+Stack+%E2%80%A2+C+%E2%80%A2+AI;Currently++++%3A+Building+awesome+projects...;++;barsa%40github%3A~%24" alt="Typing SVG" />
+<p align="center">
+  <a href="https://barsa-dot.github.io/barsa_portfolio/">PORTFOLIO ↗</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/barsarani-sahoo/">LINKEDIN ↗</a> &nbsp; · &nbsp;
+  <a href="https://github.com/barsa-dot?tab=repositories">EXPLORE MY REPOS ↗</a>
+</p>
 
-</div>
+### `whoami`
+
+I'm **Barsarani Sahoo**, a Computer Science student at **REVA University** and a **BBA (DBE) student at IIM Bangalore**. I enjoy turning ideas into things people can use—from web applications and AI experiments to games and developer tools.
+
+```python
+barsa = {
+    "interests": ["full-stack development", "AI", "creative interfaces"],
+    "learning":  ["data structures", "C++", "database systems"],
+    "approach":  "build it, understand it, make it better",
+}
+```
+
+### `ls projects/`
+
+| Project | What's inside |
+| :--- | :--- |
+| **[Developer OS](https://github.com/barsa-dot/developer-os)** | A creative developer interface with an arcade-inspired personality. |
+| **[Arcade 2.0](https://github.com/barsa-dot/Arcade2.0)** | Python games, brought together in one arcade. |
+| **[The Museum of Barsa](https://github.com/barsa-dot/the-museum-of-barsa)** | An experiment in making a portfolio feel like a place to explore. |
+| **[Portfolio](https://github.com/barsa-dot/barsa_portfolio)** | My personal corner of the web. |
+
+### `cat toolbox.txt`
+
+**Languages** · C · C++ · Python · JavaScript · TypeScript · SQL  
+**Web** · React · Tailwind CSS · FastAPI · Node.js  
+**Tools** · Git · GitHub · VS Code
 
 ---
 
-```bash
-@barsa-dot
-
-Name        : Barsa
-Role        : Computer Science Student
-University  : REVA University
-Interests   : Full Stack Development, Systems Programming, Artificial Intelligence
-Currently   : Building projects • Learning C deeply • Contributing to Open Source
-
-@barsa-dot
-
-📂 projects/
-📂 open-source/
-📂 experiments/
-📂 blogs/
-📄 resume.pdf
-📄 contact.txt
-
-@barsa-dot
-
-Languages
-─────────
-• C
-• Python
-• JavaScript
-• TypeScript
-• SQL
-
-Frameworks
-──────────
-• React
-• FastAPI
-• Node.js
-• Tailwind CSS
-
-Tools
-─────
-• Git
-• GitHub
-• Linux
-• Docker
-• VS Code
-
-@barsa-dot
-
-On branch main
-
-✔ Always building.
-✔ Always learning.
-✔ Always shipping.
-
-No unfinished ideas left behind.
+<p align="center"><sub>Part developer. Part storyteller. Always a work in progress.</sub></p>
