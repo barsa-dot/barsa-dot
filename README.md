@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dashboard.svg" width="100%" alt="Barsa's developer terminal: contribution calendar, public GitHub statistics and primary repository languages" />
+  <img src="./assets/barsa-os.gif" width="100%" alt="Barsa OS: animated Windows-inspired desktop with portrait reveal, terminal typing and project windows" />
 </p>
 
 <p align="center">
@@ -8,19 +8,13 @@
   <a href="https://github.com/barsa-dot?tab=repositories">EXPLORE MY REPOS ↗</a>
 </p>
 
-### `whoami`
+### About the person behind the desktop
 
 I'm **Barsarani Sahoo**, a Computer Science student at **REVA University** and a **BBA (DBE) student at IIM Bangalore**. I enjoy turning ideas into things people can use—from web applications and AI experiments to games and developer tools.
 
-```python
-barsa = {
-    "interests": ["full-stack development", "AI", "creative interfaces"],
-    "learning":  ["data structures", "C++", "database systems"],
-    "approach":  "build it, understand it, make it better",
-}
-```
 
-### `ls projects/`
+
+### Open a project
 
 | Project | What's inside |
 | :--- | :--- |
@@ -29,7 +23,7 @@ barsa = {
 | **[The Museum of Barsa](https://github.com/barsa-dot/the-museum-of-barsa)** | An experiment in making a portfolio feel like a place to explore. |
 | **[Portfolio](https://github.com/barsa-dot/barsa_portfolio)** | My personal corner of the web. |
 
-### `cat toolbox.txt`
+### My toolkit
 
 **Languages** · C · C++ · Python · JavaScript · TypeScript · SQL  
 **Web** · React · Tailwind CSS · FastAPI · Node.js  
