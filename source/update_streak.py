@@ -25,21 +25,19 @@ def build():
   else:run=0
   longest=max(longest,run);previous=date
  active=sum(v>0 for v in p.days.values())
- def txt(x,y,t,size=14,c='#173e3c',weight='normal'):
+ def txt(x,y,t,size=14,c='#392523',weight='normal'):
   return f'<text x="{x}" y="{y}" font-family="DejaVu Sans,sans-serif" font-size="{size}" fill="{c}" font-weight="{weight}">{html.escape(str(t))}</text>'
- s='<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310"><rect x="1" y="1" width="998" height="308" rx="18" fill="#f7f3e9" stroke="#a9c5bc"/>'
- s+=txt(25,35,'THE DAILY THREAD',13,weight='bold')+txt(25,64,'Small steps. A visible trail.',25,weight='bold')
- for i,(label,value) in enumerate([('CURRENT STREAK',current),('LONGEST IN WINDOW',longest),('ACTIVE DAYS IN WINDOW',active)]):
-  x=25+i*326;s+=txt(x,98,label,10)+txt(x,143,f'{value} days',31,weight='bold')
- start=today-timedelta(days=27)
- for i in range(28):
-  d=start+timedelta(days=i);level=p.days.get(d.isoformat(),0);x=25+i*34
-  if i<27:s+=f'<path d="M{x+24} 192h10" stroke="#b5cfc6" stroke-width="2"/>'
-  color=['#e2e8df','#c5ded3','#83b9a3','#418779','#174b47'][level]
-  s+=f'<rect x="{x}" y="180" width="24" height="24" rx="12" fill="{color}"><title>{d.isoformat()}: {"active" if level else "no public activity"}</title></rect>'
-  if i%7==0:s+=txt(x,226,d.strftime('%d %b'),10)
- s+=txt(25,258,'Last 28 days · darker nodes mean more contribution activity.',12)
- s+=txt(25,282,f'Public calendar · window {days[0]} to {days[-1]} · refreshed {today.isoformat()} UTC',10)
+ s='<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="285" viewBox="0 0 1000 285"><rect width="1000" height="285" rx="18" fill="#FFF8ED"/>'
+ s+=txt(25,34,'THE CONSISTENCY CLUB',12,'#B52A45','bold')+txt(25,70,'Showing up is a skill.',29,'#392523','bold')
+ for i,(label,value) in enumerate([('CURRENT RUN',current),('BEST RUN IN WINDOW',longest),('ACTIVE DAYS IN WINDOW',active)]):
+  x=25+i*325
+  color='#B52A45' if i==0 else '#F4DC83'
+  ink='#FFF8ED' if i==0 else '#392523'
+  s+=f'<rect x="{x}" y="93" width="300" height="119" rx="12" fill="{color}"/>'
+  s+=txt(x+18,121,label,10,ink,'bold')+txt(x+18,173,str(value),43,ink,'bold')+txt(x+116,172,'DAYS',12,ink)
+  s+=f'<circle cx="{x}" cy="151" r="9" fill="#FFF8ED"/><circle cx="{x+300}" cy="151" r="9" fill="#FFF8ED"/>'
+ s+=txt(25,239,'Public contribution calendar · current run includes yesterday if today is unfinished.',11,'#392523')
+ s+=txt(25,262,f'Window: {days[0]} to {days[-1]} · refreshed {today.isoformat()} UTC',10,'#392523')
  s+='</svg>'
  (Path(__file__).resolve().parents[1]/'assets/streak.svg').write_text(s)
  print('Current:',current,'Longest in calendar window:',longest,'Active days:',active)
