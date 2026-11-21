@@ -2,20 +2,13 @@
   <img src="./assets/header.svg" width="100%" alt="Barsa's personal workspace — Thoughtful code. Curious by default." />
 </p>
 
-<table>
-<tr>
-<td width="30%" align="center">
-<a href="https://barsa-dot.github.io/barsa_portfolio/"><img src="./assets/portrait.png" width="240" alt="Barsarani Sahoo — open my portfolio" /></a>
-<br /><sub>Barsarani Sahoo · @barsa-dot</sub>
-</td>
-<td width="70%">
-<h3>Hello, I'm Barsa.</h3>
-<p>I study Computer Science at <b>REVA University</b> and BBA (DBE) at <b>IIM Bangalore</b>.</p>
-<p>I enjoy building web applications, exploring language and machine learning, and making useful tools with a little personality.</p>
-<p><b>Currently exploring:</b> full-stack development, data structures and database systems.</p>
-</td>
-</tr>
-</table>
+### A little about my workbench
+
+I’m **Barsarani Sahoo**, studying Computer Science at **REVA University** and BBA (DBE) at **IIM Bangalore**. I build web applications and explore language, machine learning and creative interfaces.
+
+**Now exploring:** data structures · databases · full-stack development
+
+
 
 <p align="center">
   <a href="https://barsa-dot.github.io/barsa_portfolio/"><img src="./assets/portfolio.svg" width="31%" alt="Open my portfolio" /></a>
@@ -32,6 +25,12 @@
 </p>
 
 [Open AuthorDNA ↗](https://authordna.onrender.com/) · [Open TaskNest ↗](https://mytasknest.pages.dev/) · **FactCheckAI: in development**
+
+### Follow the daily thread
+
+<img src="./assets/streak.svg" width="100%" alt="Public GitHub activity thread: current streak, longest streak in the calendar window and a 28-day connected timeline" />
+
+<sub>A streak counts consecutive active calendar days. Today can remain unfinished: an active streak through yesterday is retained. The longest streak covers the displayed calendar window, not all-time history. Public activity only.</sub>
 
 ### My toolkit
 
