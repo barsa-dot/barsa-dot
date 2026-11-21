@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://authordna.onrender.com/"><img src="./assets/authordna-button.svg" width="31%" alt="Open AuthorDNA live app" /></a>
+  <a href="https://mytasknest.pages.dev/"><img src="./assets/tasknest-button.svg" width="31%" alt="Open TaskNest live app" /></a>
+  <img src="./assets/factcheckai-button.svg" width="31%" alt="FactCheckAI — in development; not yet deployed" />
+</p>
+
+<p align="center">
   <a href="https://barsa-dot.github.io/barsa_portfolio/">PORTFOLIO ↗</a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/barsarani-sahoo/">LINKEDIN ↗</a> &nbsp; · &nbsp;
   <a href="https://github.com/barsa-dot?tab=repositories">EXPLORE MY REPOS ↗</a>
@@ -18,9 +24,9 @@ I'm **Barsarani Sahoo**, a Computer Science student at **REVA University** and a
 
 | Project | What I’m building |
 | :--- | :--- |
-| **AuthorDNA** | A writing analysis tool exploring writing style and language patterns. |
-| **FactCheckAI** | Machine learning experiments for assessing claims using text datasets. |
-| **TaskNest** | A task manager with subtasks, progress tracking and a playful rewards system. |
+| **[AuthorDNA ↗](https://authordna.onrender.com/)** | A writing analysis tool exploring writing style and language patterns. |
+| **FactCheckAI — in development** | Machine learning experiments for assessing claims using text datasets. |
+| **[TaskNest ↗](https://mytasknest.pages.dev/)** | A task manager with subtasks, progress tracking and a playful rewards system. |
 
 ### My toolkit
 
